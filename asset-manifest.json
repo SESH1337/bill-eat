@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bill-eat/static/css/main.f38a3276.css",
+    "main.js": "/bill-eat/static/js/main.5d892dd1.js",
+    "index.html": "/bill-eat/index.html",
+    "main.f38a3276.css.map": "/bill-eat/static/css/main.f38a3276.css.map",
+    "main.5d892dd1.js.map": "/bill-eat/static/js/main.5d892dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.5d892dd1.js"
+  ]
+}
